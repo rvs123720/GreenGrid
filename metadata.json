@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack — Smart Waste Management",
+  "description": "Smart waste management and collection platform featuring connected portals for residents, waste collectors, and municipal command centers with IoT bin monitoring, route optimization, AI waste sorting, and dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
